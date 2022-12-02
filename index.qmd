@@ -1,13 +1,10 @@
 ---
 title: "Very Merry Slides"
-format: html
+subtitle: "quarto-snow"
+format: revealjs
+filters:
+  - snow
 ---
-
-<!-- https://github.com/hcodes/snowflakes -->
-<script src="https://unpkg.com/magic-snowflakes/dist/snowflakes.min.js"></script>
-<script>
-    new Snowflakes();
-</script>
 
 ## Quarto
 
